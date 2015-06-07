@@ -1,2 +1,2 @@
 # AIPY-Music-Player
-Music player created in Python using swPython
+Music player created in Python using wxPython
